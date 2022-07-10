@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "dhiraagu-usage-notifier"
 version = "0.1.0"
-description = ""
+description = "Telegram bot which scrapes data from dhiraagu portal"
 authors = ["Naffah Abdulla Rasheed <mail@naffah.me>"]
 
 [tool.poetry.dependencies]
